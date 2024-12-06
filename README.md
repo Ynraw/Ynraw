@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ynraw
-- 👀 I’m interested in Python for now and currently its all i am learning focusing on python it becomes a hobby. Apart from python I do use, QGIS, SWMaps, and OpenStreet for my mapping needs.
+- 👀 I’m interested in Python. Currently its all i am learning and it becomes a hobby. Apart from python I do use, QGIS, SWMaps, and OpenStreet for my mapping needs.
 - 🌱 I’m currently automating most of my computer tasks like, parsing data from an XML file, Formatting text, even extracting relevant data from an excel file and save as csv. I also have made a short CLA app that manipulate a PDF file, where it can merge, extract a page or rotate a pdf file.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
